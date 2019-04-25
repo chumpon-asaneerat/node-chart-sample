@@ -1,10 +1,10 @@
 # github-expressjs-empty-project
 The expressjs empty tempate
 
-#Install instruction:
+Note. Install instruction:
 
 1: Before run install please change repository's url in package.json
-
+```javascript
 {
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@ The expressjs empty tempate
   },
   "homepage": "(enter your project homepage url here)"
 }
-
+```
 2: To install
 
 npm install
