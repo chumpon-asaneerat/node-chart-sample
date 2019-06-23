@@ -60,7 +60,12 @@ app.get("/", (req, res) => {
 });
 
 app.get("/:file", (req, res) => {
-    res.sendFile(path.join(__dirname, req.params.file));
+    if (req.params.file === 'index.html') {
+        res.sendFile(path.join(__dirname, req.params.file));
+    }
+    else {
+        next();
+    }
 });
 
 const server = app.listen(PORT, () => {
