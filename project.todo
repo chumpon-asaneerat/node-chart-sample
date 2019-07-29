@@ -1,0 +1,9 @@
+Chart and Data Visualization:
+    D3:
+        ☐ Add d3.js in puclic folder.
+        ☐ Update index.html.
+        ☐ Add sample express api to get data
+        Chart types:
+            ☐ Bar chart basic sample.
+            ☐ Pie chart basic sample.
+            ☐ Pie chart with connected label sample.
