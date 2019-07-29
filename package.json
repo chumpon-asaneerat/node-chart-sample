@@ -1,21 +1,21 @@
 {
-  "name": "github-expressjs-empty-project",
+  "name": "node-chart-sample",
   "version": "1.0.0",
-  "description": "The expressjs empty tempate",
+  "description": "The node chart and data visualization sample project",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chumpon-asaneerat/github-expressjs-empty-project.git"
+    "url": "git+https://github.com/chumpon-asaneerat/node-chart-sample.git"
   },
   "author": "Chumpon Asaneerat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chumpon-asaneerat/github-expressjs-empty-project/issues"
+    "url": "https://github.com/chumpon-asaneerat/node-chart-sample.git/issues"
   },
-  "homepage": "https://github.com/chumpon-asaneerat/github-expressjs-empty-project#readme",
+  "homepage": "https://github.com/chumpon-asaneerat/node-chart-sample.git#readme",
   "dependencies": {
     "@types/moment": "^2.13.0",
     "body-parser": "^1.18.3",
