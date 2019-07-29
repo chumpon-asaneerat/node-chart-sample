@@ -1,5 +1,5 @@
-# github-expressjs-empty-project
-The expressjs empty tempate
+# node-chart-sample
+The node chart and data visualization sample project
 
 Note. Install instruction:
 
